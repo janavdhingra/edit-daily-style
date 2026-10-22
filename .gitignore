@@ -1,0 +1,11 @@
+node_modules/
+dist/
+public/
+.netlify/
+.claude/
+archive/
+*.ics
+.DS_Store
+coverage/
+.env.local
+portfolio-shots/
